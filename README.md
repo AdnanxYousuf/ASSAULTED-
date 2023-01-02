@@ -12,12 +12,19 @@ Welcome to the Infected World, Where all the humans and animals are being infect
 
 ## 𝐌𝐀𝐉𝐎𝐑 𝐈𝐌𝐏𝐑𝐎𝐕𝐄𝐌𝐄𝐍𝐓𝐒...?
 🔸 Improved controls - The shooting was improved significantly compared to the jam version and the game is also more accessible due to more input options..
+
 🔸 New Maps added / Reworked previous levels
+
 🔸 Added More Sound Effects - They were MUCH needed.
+
 🔸 Main Menu Design Updated
+
 🔸 Improved Game Feel - Things like screen shake, particles and screen effects.
+
 🔸 Added Game Events - Fun creepy things happen during the game now.
+
 🔸 Reworked Camera Input and Output updated
+
 🔸 Optimized game and Compressed
 
 ## 𝐅𝐄𝐀𝐓𝐔𝐑𝐄𝐒:
@@ -32,8 +39,11 @@ Welcome to the Infected World, Where all the humans and animals are being infect
 
 ## 𝐂𝐎𝐍𝐓𝐑𝐎𝐋𝐒:
 🔸 Right Mouse Button to Shoot 
+
 🔸 Arrow Keys to Move
+
 🔸 U to Opens Upgrade Menu.
+
 🔸 ESC to Back to Menu
 
 # DISCLAIMER..?
